@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Err,all you need is determination and seriousness in this course. There are days you just get tired...but you just have to endure. It'll all be worth it in the end
